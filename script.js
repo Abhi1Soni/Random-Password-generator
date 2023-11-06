@@ -110,8 +110,8 @@ function generatePassword() {
 }
 
 // Storing generated passwords into variables it will help to use these values in copy functon
-let generatedPassword1 = "@ayush_agg15"; //default screen value for copy feature
-let generatedPassword2 = "@ayush.ag15"; //default screen value for copy feature
+let generatedPassword1 = "7950@bhiS"; //default screen value for copy feature
+let generatedPassword2 = "7950@bhiS"; //default screen value for copy feature
 
 // function to display generated passwords
 function OutputPassword() {
